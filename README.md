@@ -14,5 +14,5 @@
 <br/>
 
 <br><p align="center">
-  <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/notebook.jpg">
+  <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/sextoucomaformacao/blob/main/printallpage.png">
 </p><br/>
