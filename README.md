@@ -12,3 +12,7 @@
 2. 🗒️ **Documentação [Notion]: [Clique aqui](https://fmoraisbr.notion.site/Sextou-com-a-Forma-o-a319811e36a645a4b3a055e3ce2ddb6b)**
 
 <br/>
+
+<br><p align="center">
+  <img align="center" width="100%" height="" src="https://github.com/fmoraisbr/cfn-casos-exitosos/blob/main/notebook.jpg">
+</p><br/>
